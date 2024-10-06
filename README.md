@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Sreesankar
-- 👀 I’m interested in game development and web development
-- 🌱 I'm currently learnt c#,c++, html
+- 👀 I’m interested in app and web development
+- 🌱 currently learned c++ and python
 - 💞️ I’m looking to collaborate on web or game development
-- 📫 instagram = @sankar___8
+- 📫 instagram = @saankarrrr
   📪 Gmail = sankarsree7788@gmail.com
 
 <!---
