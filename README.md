@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sreesankar
 - 👀 I’m interested in app and web development
 - 🌱 currently learned c++ and python
-- 💞️ I’m looking to collaborate on web or game development
+- 💞️ I’m looking to collaborate on web or app development 
 - 📫 instagram = @saankarrrr
   📪 Gmail = sankarsree7788@gmail.com
 
